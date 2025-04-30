@@ -1,0 +1,6 @@
+librosa
+hmmlearn
+soundfile
+numpy
+scipy
+pyaudio
